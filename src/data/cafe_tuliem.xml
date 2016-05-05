@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+<name>Công ty TNHH Am Tường</name>
+<vicinity>Nguyễn Đổng Chi</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0372362</lat>
+<lng>105.7639570</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRsAAAAOvsB5aY4FItfwcK7CbONg_P96COWTv0bGlMb7TVbqEqkWaOvEuXbV2hP7uiSgYBm6g9Wimt5oglqcWrIiG923EeyYLr3isBbAu7kv7VexcvCQk6fgOFGVeaFGaHfe3bOwsrgEVtSboDY-ufIfhIqwxIQIOkUjPvXqaRJ85_5uN88nhoUKoSG_7Xpra61qbyrt43tX-L6dRo</reference>
+  <id>4839f928466827eadbd94187784c5072471309f2</id>
+  <photo>
+   <photo_reference>CmRdAAAATlaZzXhyBzqoA8cy0dm9koVw5VnpiIrfxXYWt0d7a_uy51km1nkpBmdGzbmvKUvl7N3qygwFw35O-Blf5Lih-CuMfn0st2c6flY1Wf_I3Jmh-rNoJZvYWoFG7tUe3XqnEhC4x7oNysPdvm1x5VxFSXdiGhSrqgXOG2u2KGSs91mXFLM_b80r0A</photo_reference>
+   <width>800</width>
+   <height>504</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/103562482069672837795/photos&quot;&gt;Công ty TNHH Am Tường&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ6wNaNr9UNDERGJMc7DITsE8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Alafolie Bakery and Cafe</name>
+<vicinity>Mỹ Đình 1, Cầu Diễn</vicinity>
+  <type>bakery</type>
+  <type>store</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0325312</lat>
+<lng>105.7643563</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRsAAAA0qL2lvizmjPAmT1wxdr8A8vRWx_Z1jjjNWEY7UYjkJf1fuvqrysPijqSbQDfYMaUTeOKicH1BUB49hlfQ3C7Qxi10ISdXXs22OaXYsXzmjF_hN_504YgWM_6RTrz3zphoYsz4RG4exaLvydoUMMNKhIQyhV3nlrEHbj7qDW2LPos6xoUHzNDeblazHOGekW1-D1VryMsElk</reference>
+  <id>75b4ecf79522c9866dc8938eb53473cd4e762d9a</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJBYITB7xUNDERSo8naSRv35M</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Mộc Coffee</name>
+<vicinity>Việt Nam, Hàm Nghi, Mỹ Đình 1, Hà Nội</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0350084</lat>
+<lng>105.7639231</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CmRgAAAAMkOmS8A8hbFl3Sb-voVK6oeYvn4I46afTKbqxqoxPThccJlHXpRAOYDoVTMY59L0o3kGv5Ng7u_7s0sMC4klatI32e3wyIHOoUpRNWJ0bTTyb7tTxL752rKI7_e1ny4iEhCQAtgFgHoWh-8GjDQte6fGGhTXfcHAdetv3X9DAhzzPnTuJL_OkA</reference>
+  <id>7d49e00befb12d6dcee597e883ec69e58714e496</id>
+  <place_id>ChIJs1f8zr5UNDERzqF4mOZxqMY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe New Style</name>
+<vicinity>40 Phú Kiều</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0431489</lat>
+<lng>105.7522932</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRiAAAAhsfXinSTcfUnK_tws0_pJRAItKa8jZZeR50J8i8jlmd8zNlFMxFN2JXo72Mksqf63MwIIcKNmWsrDlSFkih9Fn9jLjF1hN6_VwsYb4tfhJQqrtrCaFbPIvMP4RuROBqP4oHRut_wpC4XbhJmf7evrxIQrQRQ-3Xm86NvTGO27vsuVRoUpv36w_FpsDi8AI4_fOxdbkohK0U</reference>
+  <id>601351ce8f18cd264187b5ee08ea6083dc484f1b</id>
+  <photo>
+   <photo_reference>CoQBcwAAAGL71R4XAL6jpRD6lCIIxFUVI5mdttjUHNnSWCwMl6nxJxgo5T0Gv8SN7M5io0-Ljciq_U_ELARUfHMn6tnZOfNw0TFnkP9JXpDhJK27CQxjCHoZBRsLWVmmOcV_LQyt3B7WtfcZORGlTa7nYA_shQTC8aek723AfSEUQh1O6QiWEhCTI4K7sJ2xbkGWhb2LdICiGhTQLMvtwuE90SCCjHtMvcS8v1cujg</photo_reference>
+   <width>1500</width>
+   <height>2000</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/103633125067912788239/photos&quot;&gt;Hieu Le&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJuQsRfOxUNDER2KYfCVVMH9g</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Đậm Cafe &amp; Desserts</name>
+<vicinity>Cầu Diễn Từ Liêm Hà Nội</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0348145</lat>
+<lng>105.7643804</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRpAAAACjqMH6-8gEWVMrmaGAzzBfb51xCrqyUef3KQ_5i8x8OO4DQPp4q7WwxcFj-i8aVeSmqNTX30miIoh0zC-kUUe2-Bp9v3SyjHTRjjKWJAFGUr3xwUb10lU_8q8qLc0zxKyc-BmPq9lbTpyxVLMfTZERIQ9iLxWftO4j7GegTOwab_CxoUJYTMiHJrwUzg9XhFUMJvUtNfswg</reference>
+  <id>b932742982ae61f97b920f71a7c3afe21388fa8f</id>
+  <place_id>ChIJZ3dfy75UNDER6qyutes5mAo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Trang Gà Cafe'</name>
+<vicinity>Đơn nguyên 1, Ký túc xá sinh viên Khu đô thị Mỹ Đình Việt Nam, Mỹ Đình 2</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0339920</lat>
+<lng>105.7666723</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRjAAAALi7EaZGjroKTbEHKIbSxV8dKPakdAWddfy8p0yCeFlUvxZbenikQ2ZG34SCtrQcuY89RqgcAaEu_ripY1UnziZZWALK_SWiEIpsAV1ExQf-Fz3q9PgYvSLdHIukIkO0-8gwWDhs8UBAQRTjewFaubhIQhGZXQUdEk-l8dniGKAIKHRoUAgZeVfTClSdxLSZ6tPlP5JUrvoY</reference>
+  <id>fc0d3306028e964407d356e18939359d080dc079</id>
+  <place_id>ChIJ54d2crlUNDEREdPWaZET0qc</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe ANH II</name>
+<vicinity>Mỹ Đình 1, Mỹ Đình 2</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0346404</lat>
+<lng>105.7647693</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CmReAAAANfbHB68HKa2aRxkQX6BXUznryy2eijOjBeJ4awrb8a6l85uyY_rShNohVKY3CqEnjg8uDrsZewDMZ9118pbkrP2VyIrGkgq1NKBZVI6_zBupV4B3fixBNTw4UgQ77dj4EhDRhbban3j0HdBPTpp0QSkMGhQ4ALxU0dRODdqPlfP4LmXnencl4w</reference>
+  <id>0cc21b44cf7d95bee9ba017f3ff6cbc54fc3d82a</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CmRdAAAAQPqlnhvMmGfTm68hGYhX4AX-W8o7NLYYm2pY_XOmEVL8Uqj0fLgiVfHsgb8XDMa7RmBmlURNzEb3YUADfHVc-D9h14HTN5k1MX_m-xfMxv1diA6FA5Bg8eVpw9ogoVjREhCSCYJlaE6aFG3SCCl4xM0rGhQsNONWl5ybGWG3sZ7GgbLVYgE2hg</photo_reference>
+   <width>4128</width>
+   <height>2322</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/114675126919296119999/photos&quot;&gt;Lê Chung&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ-2EwNLlUNDERlkGUDcmdbVE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà Phê First</name>
+<vicinity>6 Lê Đức Thọ, Mỹ Đình</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0339555</lat>
+<lng>105.7699746</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRiAAAAXv2PQVGmz4Z_Zeevz8xOnytmDiPv5mZ1R_A5wu5ecveh28Fgp27V4Pbp6O8ESlDJjws1AOogjN8wkJplqlK6k6WcR_LA2HD1JvJVAEQAvRMGdr8czZP9080I-jQqz9npLRRq8njs0yf6PvfNqiPk8RIQ-CxJvbBRhrJMHMCitdor7hoUHLk0N7jO6rJpmGPPiB4Ebx2Zjz4</reference>
+  <id>92685ec036b481513d0937c92da9f6de48c65ba5</id>
+  <place_id>ChIJjXrw3blUNDERf493qho0FuY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe Hà Vịt</name>
+<vicinity>Hàm Nghi, Cầu Diễn</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0347653</lat>
+<lng>105.7644832</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRiAAAAE8YUVx6Ah6YYi89kotL6gJEUqsN8wKB8uO67pJP_XdHmqiJPWiSQR8dg_7csxwnaq8WT6GsCbVOj71k_fZwk83TmAVa0Xt_5YImOJX1zXeUkZDGqvghe4zJ0zcrD4Qs6Ty2fE5gF_ruXvQ39xXiAgxIQdn8r-WtqQnEgbrXIsyZeKxoUJwjSS-24SoJBa-6f9Wzm3cisG8U</reference>
+  <id>2893d8e3a87996e020407204c20316d7cf75102c</id>
+  <place_id>ChIJlyJEM7lUNDERYjq9qV7lHYI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà phê Hà Linh</name>
+<vicinity>Đường Văn Tiến Dũng Quận Bắc, Phúc Diễn</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0482073</lat>
+<lng>105.7487055</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRkAAAAPHWkFBV-1IWyPbySNzGH2Yx1JJBqPF-WCibjBHdbhc1fH-m7YYZahrspm4lGy_tj0PvQ5rpQTGDInXFg9lnzXqFr5GBYn9VH4Qi1R4dpswLCcikC9s-ME-e8LvNlTLRYGZPy4pqw7C0yOBR8RrDRBRIQ3mAovLG4AZHqP656-LkJ9hoUWcP0bgRL09GKzprr6ikq03Gskzw</reference>
+  <id>0e15101c1d12b8bfbb71c6a1aa127f4bdd3a1b86</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CmRdAAAAVtdgIPfjXt1uoZbG1auBCb1-9GZWj2PdpQtzWC0xoMG1rfbDZ-z5RetTFVeH6su5jTmP4OwX6kljNKVuoxHPQWG4GXtxyO7pO7lcQWCdb9R7Uee7Pas_czitxHBMVcYxEhAygw9jGQw-cr6R5GoaSSw8GhTUv_8IR1Me0u7MuJqBWz_hv7TbFA</photo_reference>
+   <width>960</width>
+   <height>539</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/106309637829272024880/photos&quot;&gt;Linh Vcu&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJjUWxQO5UNDERJwGcFhCmi1k</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe Đức Audio</name>
+<vicinity>Đức Diễn, Phúc Diễn</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+  <location>
+<lat>21.0496017</lat>
+<lng>105.7503068</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRlAAAADLxG3JJPY93OUoQkAVTYzgkENTyykE3e25ghIGzl16O1_bcP8ldQRCIXzUkLp0tDMO1WoevwjQwEBh69ensVeINx6wtj1Kxm99920EPJzR1iU9ZygkW8SHo-7UfUOdnKNp09smj3zzHPe-SWNg4dbxIQelrtR9G1HqQuleh2i4h2ghoUonPYDD7lLPVrbpCGcPj1YOhntps</reference>
+  <id>e97bde78467c17e603d3aa40eaf9d1e5fb0f79b6</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJdZBwD-9UNDER4ua1xW6QTL8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>The Corner Coffee</name>
+<vicinity>Hàm Nghi, Mỹ Đình 2</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0338831</lat>
+<lng>105.7676553</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRlAAAAQIfXjjD10G_FC7zjchLVjgL6czYkqe9i-Ypzii3oejnBbcekJp-HgIJznGpOVdfWYkyU68-O_AWe9bJwbSKZ1yiDBkePTDhxMkSDP2yUxZy48qLKPjxhx0_8Wpl3CTHvdAVDO6EC5n4UlVtFr12BxBIQ8h9sWobHuoaV9gMH597U_xoUbN-Gy-Fpyv5IUYczxF5beF8dkzg</reference>
+  <id>5c93d16f17beb8923022bc211cd1ea75e8c6d91a</id>
+  <place_id>ChIJlwXrnrlUNDERYKWNGG_Yuvs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà Phê New Style</name>
+<vicinity>4 Lê Đức Thọ, Mỹ Đình</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0344041</lat>
+<lng>105.7700377</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRlAAAAcjRoGEwVy9Hv0UC7ya9O-sV7CdSy_e1GD8WR3I8S3YxBM6FM4VMGzp6LYh8j4zOi4OL9KGjvqBbL-wIKZuGczLc0yFxx8JwZCa0KeT4DM88JXlyuMC8pery03oyvOAqib_Pmmc-pwe8WxQgFSjIZUBIQtJRFNP-EtjYSNyTeQIaaYRoUQqrZ9R6poVrmg3SZU21MYo7dj-U</reference>
+  <id>726fa2547181bf2a4964ca14a9119abe6eae5ba7</id>
+  <place_id>ChIJ9S8R2blUNDERWMKCQ9R0J30</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Mỹ Đình I</name>
+<vicinity>Mỹ Đình</vicinity>
+  <type>parking</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+<location>
+<lat>21.0338121</lat>
+<lng>105.7627853</lng>
+</location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRhAAAAUg0UVm6owHYZ5g8Mabu4SKNCXbqatSieQ1EanX98QBtg1EfpmLaHEDeYc7_z8ojwrxP8z3QFIoQaKUWQk41OnyyoEXt670PqKIlfAl_CkCQ1iL6hDS74zq7XLFq3O45BhsMSoIN0DIUq3KDMT7BfaRIQJtlsEvk2-_8ZHfw74eQTVBoUAUwwcodJD9CNyP1dFZ0-z57ZPLM</reference>
+  <id>c080344ac3d2ce32ce26d669e76786ccdc9dda45</id>
+  <place_id>ChIJp97Rmb5UNDERfISIsV7n46s</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà Phê 99</name>
+<vicinity>197 Hồ Tùng Mậu, Cầu Diễn</vicinity>
+ <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0406030</lat>
+<lng>105.7640408</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmReAAAALECqwTnA7o5de4Mv-Rxi-MHlPrtporkPzUi2f1f8upC7t6zvcyZkwiR6XPOiQYFiVbqHxV-NnDJW4aickwt4iwxw17tA96POqcCDIAUH8o7V35tPOKKkybaij8j_1FIVEhA279PqR56_DnwytQOgv9wAGhQ2oPLU_h8WFXj8z3AsfDYC4_hqvw</reference>
+  <id>79362dbef3051839e4fb91907b850d4bdeb74b8e</id>
+  <place_id>ChIJSxJSycBUNDERIKiau0tFR2E</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà Phê Flower</name>
+<vicinity>Phú Diễn</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0467605</lat>
+<lng>105.7630902</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRiAAAArFiKZ6NCzbXja7MgfPxNk1u1rqbC9fSHRADhInlFleTnZ9c-gsRa5clf59uBkVqbRawDvYa6pEG8QqRUSXGFAlaxCUZ-jW6POzW1sKDtuLuiwBRXvxtNMBoEThZLyMjc638N2j5VhXVNclvY9l-R5BIQE3ScJr7Y5bBt4eIr53L5pRoUILnzXibWQ2alxvlwsHwfNZZWfTQ</reference>
+  <id>3209b30c06c9263d1995360b82af7c9fbdf75157</id>
+  <place_id>ChIJvyG4l8NUNDERSkwAdTRojmI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà Phê Quân</name>
+<vicinity>44 Phú Diễn</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0461748</lat>
+<lng>105.7628542</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRhAAAAG8iJr9HNQV1yRtKybdVaRJG0Wev6uAGsKGEnuov1v0s326FBtWmumoTP7AmV_ZUswNEEqZOLYINBAH0AJBtJYqPUzrlyu0XtUi7HX2k16xWx71Gf18hgGmrBw1vO2M2QD8FaJc-FxDPgQxaqeZ5hLhIQwHaR8cFbmj0U3deSQZfd5hoU9PZqPC7W6JB_6QzGV-eUIEWhpEg</reference>
+  <id>82912d9f42a71add25e9155f2832811036d8ceab</id>
+  <place_id>ChIJg-F5wMNUNDERQJBp7nIg8iY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Hoàng Tùng Audio</name>
+  <vicinity></vicinity>
+  <type>electronics_store</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0352160</lat>
+<lng>105.7633110</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRlAAAAFIEAO4Sd18f9Rkl58e11iVyiRHGbX3VhNXHNsfWi2PXk7PayQDGfqZ-Dc_q8p-qQ2PK2wSpxd9zz0GW6t0vxloLP9IXwE8YAihOdqAXyMOH44mtuN5-G0RQwy0K8E6n43kv7EjHTtZD8IwYa1rrW6xIQdvjp80bhkbdEe0o8sLEpQhoUy13wJv-Cd7lI25BOcrbL_zB_emw</reference>
+  <id>1bc08d342062f2119998525f5f5d065bc09997d5</id>
+  <photo>
+   <photo_reference>CmRdAAAAhCga4Qg9gpQS6EnbgqncMD4MFhgsM-qnog_bNqUSBCr4MkCzw4KXipcjlkfUdaBq4eet_5Tx_y1swPy52EFnfgSsvfxL-rWspcEz5F7zwD7ZOd5i1EB64KYyQQHh-GIhEhAr8008iUrOj3LfrP9Brk7oGhSqP38tr0Q9VHBDfCmmhKBgYT2cnw</photo_reference>
+   <width>897</width>
+   <height>388</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/115557905348374596445/photos&quot;&gt;Hoàng Tùng Audio&lt;/a&gt;</html_attribution>
+  </photo>
+  <permanently_closed>true</permanently_closed>
+  <place_id>ChIJhfWSnBKpNTERqGlFQ7Qfr2o</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <html_attribution>Danh sách của &lt;a href=&quot;http://www.diadiem.com/&quot;&gt;Diadiem.com&lt;/a&gt;</html_attribution>
+</PlaceSearchResponse>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+<name>Cafe Hà Nội</name>
+<vicinity>Vạn Phúc, Liễu Giai</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0334746</lat>
+<lng>105.8157628</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRiAAAASLkdZxDPhxKyPRt2Tl1Ff4MHlzklB71n06OoHSE8WZsEFkZdSquv7O1WKUdSlNutl-QEx2vZnP-O5XCL1Bt8zELBTifmlj1Xg38o4KZiwFMIgM-gAcmN5YayVIzBmiH_zb4Dq3BkT3J0I-IKmpLLThIQQkoWG2CRdzsvtJCK4-qJThoU98iVR6Z6yAxn2OUe2ZekCz_Fwck</reference>
+  <id>76c5b2aa9fb36b152835a2371c1749a02f22bae5</id>
+  <photo>
+   <photo_reference>CmRdAAAA4JMKWkaXMqmQWSSc5V4oPGSXz80zklu9ouICeeTy9cfEbioQGhl6xMASdhfCVx-n5jduPiOTraLEY6s08OUHg62mxwMZlYo8XHHNX-uhkmvP5P_qL5FhSyeu3Wa9mCn4EhARVw_aV-jBpKx19y2ps26cGhRmmLg6oN0maQtKq8FO71C49HvPlA</photo_reference>
+   <width>2400</width>
+   <height>3200</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/101265205816277550398/photos&quot;&gt;Vu Nham&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJSac9Nm2rNTER38PYGM92hLY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe Phim Hà Nội</name>
+<vicinity>82 Yên Lãng</vicinity>
+  <type>movie_theater</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0094410</lat>
+<lng>105.8148180</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png</icon>
+  <reference>CnRnAAAAz6BLMa_1Zq6CvzlvdHi7AOHChtBSsJDNb6Ak2685t4_OKGTehfD9TU4zoUTWUQcrmw_CjTvw_TXzzlB7rCv1tHQQAgwyP1rmh9ZuEzS-_sJrxtu1mYi1xtz-XzMuhEDQ0vKrY8rL7ckK73l2bDHGbBIQH_pFZgrc25Y3_TB9rEd9cxoUukkHH-hcIr-VZrJoiihLbr34sjc</reference>
+  <id>361112d6bc35a8694ebd9b73f31a655e40a0765a</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJV4h7XrqtNTERyNQFD7ibnbo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Quán Cafe Totoro</name>
+<vicinity>20, Ngõ 80, Phố Chùa Láng, Quận Đống Đa</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0232480</lat>
+<lng>105.8078904</lng>
+   </location>
+  </geometry>
+  <rating>4.0</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRlAAAACmqRK-03dELzrXTAXZdOrFm9QP2iAcn54EiQQ16V3oFai4E7ogLdh4QCQI3caBTPN5UAs5m0t2rn-rvcFL0wSCpJ_GSmtAQSNBauCzAyhRY8SLfwy_Mmsjc13kW6WJVekQwFh-rGHPK2ISIldAqXQBIQfCSkOjriSNq5kLvT6umrUxoUq1p3uao5lnFFTL7-bOhV42wR-FU</reference>
+  <id>853ff72be1740547081aaa0327300eee56748a6a</id>
+  <place_id>ChIJ3_VReGirNTERPxCIQGfP55s</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Givral Cafe</name>
+<vicinity>1 Trung Hòa</vicinity>
+  <type>bakery</type>
+  <type>store</type>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0137487</lat>
+<lng>105.8019327</lng>
+   </location>
+  </geometry>
+  <rating>4.1</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CmRfAAAAhaIm7kh_izvHI3wSa0-2TCal14mO8KcLYDPZsHazfDX73_dPRoF-fIbgd1YJusFPeaQcaxsPkhmKgYBitEUXlDOBxTJEvjSpubBD1M0sKz07yrQKZ4h7YWHRMNUv400CEhD7ZK8atY9DuT5e6yJCUXCdGhRu_d7H89pcThWsY9rIwqVFPKxYcA</reference>
+  <id>0dab96b85d2dac0094b35753e22859fa03930761</id>
+  <place_id>ChIJ66kM216rNTERPSJclGeDZaM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe Xanh</name>
+<vicinity>15 Láng Hạ, Thành Công</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0210235</lat>
+<lng>105.8165631</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRcAAAApsyWesoTjLYxaZiPW-eKgMRtepMNalxJ98mVKFkOcKS5aqirfY7zhAgYt_DXJYmD9S0soYjjbgFVfGAnS-fZRXOSAbWtrCuaqieXcF55k5UeNGasXFhTgjD738cus1OcEhDHb5PqAcr2V3U2AU3oubZfGhRL8gfSr4Y8zhPF_uTD3j5-4Q4T5Q</reference>
+  <id>64dc5ab703744a1cfeaa2cfb9aa018a50f78c4e7</id>
+  <place_id>ChIJTWpiSGWrNTERB0E1Gq29gA0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe Cỏ</name>
+<vicinity>53 Nguyễn Công Hoan, Ngọc Khánh</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0271777</lat>
+<lng>105.8139554</lng>
+</location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRdAAAAUdzzHs-5-Un-t98MbEsWQgIU6Fo9VnRhLNLOnrav2qz27iVwzi8bajO3gL5PEYTmV_DIGTkGWKA4qsRnaPTlNaxIsu5S-nLbg_mbvINYXB4ewTCMhu53yLd3M-rDM2PaEhC0rn21-awNKWKWr9G9MEMQGhSj_GZETXJKHR98712ZP-csPehU8A</reference>
+  <id>81d212d0ce3292ad503f91ee6911e32e947aaf34</id>
+  <place_id>ChIJ15CGjG6rNTERl_Rl2oiypro</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Quán Cafe Yến</name>
+<vicinity>121, Láng Hạ, Quận Đống Đa</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0123215</lat>
+<lng>105.8116383</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRjAAAAZGHxILVRRn0cB3X_PXSQmxloYsIYD3JWzWbbVNsfxciqWgg7UTyDUFmddZ_5WS54m5G8FJyf0Yj8oFkQzUH0TgeXpdZ7uFA8E7dzqGVxp7CZNSiMEx1g_yHn7dXNDveKPwCG1OF-Wz8yLCKaqvh58hIQvZ_Fk544v5Uf_fcDiQ39nBoUM07lBG4Q14DWIl_FyChYHjQozFM</reference>
+  <id>3c6b050d3ae6c464f7f52a296e23f1cff02c814f</id>
+  <place_id>ChIJi83yHmKrNTER6gyOpW4t4DM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Quán Cà Phê Hà Nội Corner</name>
+<vicinity>75, Đường Nguyễn Công Hoan, Quận Ba Đình</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0270434</lat>
+<lng>105.8137733</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CoQBcgAAAKExxhYLNqt9SD-nJWBpZd0VwvDJsY1G3eMJQAijYH9lPUjoE8K9PG5q6u6F267XVbUMOi5Ca_WG-dRa0m94gbMt5JVdNhyshtrHULZkgHEdbC9efap9y9qHoVDqyVuVsUHENEECFU6tEffAKhCZnEkwSCjbrDeRREXhStbAB7BIEhDcrQ9OHTfgmOKoJYcg4JwoGhTBydlvN1V2w0d8IMVxaJ2A_ce4AA</reference>
+  <id>f0f845b43e57914d5f58b53b96df4184b26e5b05</id>
+  <photo>
+   <photo_reference>CmRdAAAAu8KUHL1uNdHOvFnL-uD3D3NuCnGthCTmxaRyteuv2Q5zmO4YjwyWcRYkHAlvQIukHzegdPcjYZGG6GrZcnzUEpJBzQxB0SYz8wOxJXHid8mH92rS9xz2H5i9SzNlxPsyEhBGA9TqjForBDOoXn3J_C6lGhTNwuPxkoC5pDNAtXgfJA3efaXWlw</photo_reference>
+   <width>600</width>
+   <height>800</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/109696864854407195971/photos&quot;&gt;Văn Tuấn Phạm&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ7eoGjW6rNTERf5dhzEOBvVo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe Nhà Sàn</name>
+<vicinity>Ngõ 462 - Bưởi, Vĩnh Phúc</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0438792</lat>
+<lng>105.8071402</lng>
+   </location>
+  </geometry>
+  <rating>4.4</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRiAAAAv5XC9Pvto5jHCkH-NTK6RjsH3ZALSkKWEJJhyN0MWAEU474Z7xuX3q6sPTu0KxhXhkyohvtK_S4DDtIxkWCXnDb0PTciI1AIZ0_3_FyAfj8Zr_-JYKV_BsYndPStZ5oU_GxJlGwvlEKwU5DlcVHbhhIQFfTd5Lgupl_W2pPt1iDXfxoUfxqFJ7mjCp-pBPqlrBAWoXS9IR8</reference>
+  <id>bd1b609a233a52146fc59f45120c76d017caf4c2</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CmRdAAAApQwMZZbC-ND2je51WEL4nNAHrXjw3lDSBsZqBb_cHuIPzo0wwdoxUFnW1SkiNPL01cf_TGoR8pyn7dcBEK1y9FCh6cO0ylU6uWzr8BLV7iUDvwZ59kmvcNSbalgjnDVFEhDwPE6ytN_jDfpiF6PcdqFoGhRyG5xSwVwpbXuc6GqhqZwLwMaFeQ</photo_reference>
+   <width>960</width>
+   <height>960</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/109920772151414723074/photos&quot;&gt;Hai Che&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ77vatRerNTERvHePIbuNd9Q</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Mộc Miên Coffee &amp; Book</name>
+<vicinity>No. 19 Ven Ho street, Thuy Khe, Tay Ho, Ha Noi, 19 Ven Hồ, Thụy Khuê</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0441018</lat>
+<lng>105.8207927</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRtAAAAxZIjbDbK_KrMJTcms2EXRkA5fksW9ymMmWsmBJD0wDOyNewodsL9bHcTE65UrEBaaoIqPoJtMGiNqJyVM9op2EQQcmSpSKHQA_R_j15bvzfnjyDjtVkoCMDWEL4RRQiIcaf7gnB-0ttAqXia_d9N1xIQZ75_36oNKzZQ1myJqhhXcRoU60spzjH8-5wRTVh2S7Og7--Wu7I</reference>
+  <id>86dc28dd9c0e157706e92919c98769d2b02b1d2f</id>
+  <place_id>ChIJ_Z94cQ-rNTER3KnU_HY9F5E</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà Phê Sách</name>
+<vicinity>18 Thái Hà</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0125619</lat>
+<lng>105.8185369</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRiAAAAgREaugGq_ADMpMILSJKUL00AcZq5TLHWqL2AzCG3AOwGZBNd0W0DJfrRKPeWn9tqIM6H6YJ3MBCvp-zeIn88IplDEvbz8DuoH05VP76mkBvc2-69Sdo4XCiXSylr_4r31PqWy9YpBrmDutM6XpDegxIQ7_uwaqq2WPk4jTuvRm6f8BoUlRqNLwCFp1DXPj6FhRZZTDHmeEM</reference>
+  <id>10f597bf9f73859ea70a3726b1dfe7c1b5229652</id>
+  <place_id>ChIJ3avnPH2rNTERXc1s_0q_1sA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>cafe nhạc trịnh</name>
+<vicinity>Láng, Quan Dong Da</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0294719</lat>
+<lng>105.7998204</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRmAAAA-04Z9RbQEDQrdhC56z0FYGAzpuF3Ueu_19h-0EiGsvQ8QSPcVAA-BaTU-svR-X9XhwePKt5ZeawJSrOmu8AXnZsv-_ey4w9RfGC90J5V99Gp76o20R9bQXDIR7DHUYzGPXe-LAGF33a_KWGb-5DXChIQqJUyfykF8XKsjf78ibpjAhoUCCpDYGhtLory2xaYgQJrF5YH4-Q</reference>
+  <id>59d4437b42f90144187c0e2160a818ec35cf0ae6</id>
+  <place_id>ChIJmyKo_0OrNTERb74nfIwmaWk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Góc Hà Nội</name>
+<vicinity>Số 160, Phố Ô Chợ Dừa</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0200933</lat>
+<lng>105.8264011</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRhAAAAqcutiEL5o8oXydduUGBA9hAOpQatIJ3ivJLBJIWGri1-LK0pykMv1JxoV9J13vZqmSsZRhctOi3FzO2Cd7SjCY4Orl1rwR3bPtz8n3tgEKQAwwm5o_-D3ghi0hV6WqFmd5m6z7P9ZK5WzVvJclCm4RIQ3MQM7CqwQ4KSumX3MYncQxoUPLXQZe5WR-jZ1zoPZC5DPPZ71II</reference>
+  <id>34025e0b17c06ade633d3b591c307bbd53c8e8f5</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJCXIxNHirNTERnyYUjDACRlA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>cafe Xưa</name>
+<vicinity>Láng Hạ</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+<location>
+<lat>21.0200908</lat>
+<lng>105.8099645</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CmRdAAAAIq8hbzm6m3F77oRDrWRKr2KmfvMFaDqQkjQuXQohBmazzpMoSAYN4LNhCpqRD6AGRwEi70XDrlxWcipax39bovFdfPtZxNRvmdKxyrIBtTYAnufMOmVFTbf1dRHfRnhJEhDvbIuN84zzpSSRd6lazMsKGhQ-PZxdTtza2MIJGXNCunoN8TZs5A</reference>
+  <id>35634363788de00f79624503c974579b1ad2baf2</id>
+  <place_id>ChIJIcN0YGarNTERqXHDpvPUpKE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Rio coffee 3D</name>
+<vicinity>107 Nguyễn Chí Thanh, Láng Hạ</vicinity>
+  <type>movie_theater</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0156010</lat>
+<lng>105.8057420</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png</icon>
+  <reference>CnRhAAAAzYMbAJjQH4Uy4fi2Nrl291Ois2dkci3zOPt3kKcon3_VTEs0KfyR3G_nqh0nzOFnx_cGGVXijRf9q4KArWo6zpk_kJMb2x0PxgNbT5ecbfGsVTkbUAF1Z82TbEZ2yuFgK43nB2dgEcC-1TC-dUbOqRIQEzoaLllDVajwUd05eyuV7xoUR7VSmhE94ogsiLTSFs7Fs83mhIw</reference>
+  <id>3aaf2f39af04e4b6adf44765780a2eced245417c</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CmRdAAAA0D7fiXBB4b0wmAlx6MehJMSz2nn2L-dh_cHJwNq4FsW6H9vyz_95f6wjsAlO4mlvfFUcxRSdaiza-ahljp61yctfPqx24mTUlvYoTsUiPrKA2sm1nBAYxk7YvGvD2QIREhDMIwfGjSdNn7I9-nF_29JKGhS_pP7rfzpcT8LhMVN8VujhoHkA0A</photo_reference>
+   <width>492</width>
+   <height>580</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/112019443896836390872/photos&quot;&gt;Rio coffee 3D .&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJETnmnmCrNTERLDs6c-JZ0OE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Kaffeine Café</name>
+<vicinity>Nguyễn Đình Thi, Thụy Khuê</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0420580</lat>
+<lng>105.8261160</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRhAAAA1cZyHieV2wWjVDzlvpgxWcPWb0B7NANaulc5Sq4lsoMfp8emmneMQrpLFQ56eEhxIhDxzCKaQXA-kMyoS2cu6NWqxUhjQg_Lx0ILcDNwOrRz5lpQ7mAD2mzFniQ67k1jBht5BxJfiI3kzP1KKzhsMBIQ9rRXFKVgIb5kXYU6fFvmBhoUIWjXaOrx0oF-T1jkVpk7FLnfd_E</reference>
+  <id>92ed5c4ccc247c9f85075e7ecfa49dc66415bd32</id>
+  <photo>
+   <photo_reference>CmRdAAAAceMLjctqbgvR0_XdQYuiXmTMzggthB2BkVoCAozRCSMpQYDscoDnfzoaY_OXi0ERFPGQe3z0PG1ST674uIpK-t7S_ykxMVhP-S-5fm-Gczkt35vWV2YQSgFv-C_-6UDREhCThCsak6pgJbobLcSsc4y3GhQHcgHIOIqK1ZNbgZUdZksafdgtFw</photo_reference>
+   <width>5312</width>
+   <height>2988</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/113346731250738978240/photos&quot;&gt;Khánh Đẹp trai&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJgbst7AirNTERyN3kkwoyA1E</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Toast n' Tea Café &amp; Food</name>
+<vicinity>15 Hoàng Cầu, Ô Chợ Dừa, Đống Đa Ô Chợ Dừa Đống Đa Hà Nội</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0195907</lat>
+<lng>105.8253373</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRsAAAAm9sbg0-Gi7VTuxiLZ4FlBlnYyPjsjj67ecsG9rJzqEBRnERtIz7uRefs_kP8B5RBVy25Dmq9FGYOFFb6h25ynP4PpxNHjHnd2KboCJjW9sSaN4Z9LTTHq5_lFX0_JfB8HXPi00NybYNZITNcIUM1ZxIQKCNzdtvxFQ7d_7fyMerLgxoUpsJOY__KegBTGAigBKotN8pLbMs</reference>
+  <id>4a0f3b1905740ca4a6286010335cf3a53bc77c44</id>
+  <photo>
+   <photo_reference>CoQBcwAAAOP8puWPYQpvi6Uni2jXOFSUQZfLNgLMqqFoG9PIUN5TH5uWoI16aE0wPoq4XWVB122ICAmZggeSGouf_jfZywC-zuBqxtAgFfnrHlu55wjFeCI1gvkCLoBL0f14j7VE21ILmWbO6ZtQBRrCdoL_ouLnLtTMLRLFAGvHcthZQYLpEhCmqyQ0O9zfNiV-1SA42mz_GhSHwZAsvr5c-4QIpST0rpr0V95OXg</photo_reference>
+   <width>600</width>
+   <height>399</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/109805170944145368897/photos&quot;&gt;Long Trịnh Văn&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ4aZnWXmrNTERmstL0Lf612g</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Hot Rock Cafe</name>
+<vicinity>117 a1 giảng võ</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0275274</lat>
+<lng>105.8241639</lng>
+   </location>
+  </geometry>
+  <rating>4.0</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CmRgAAAAQ7MWNekHOrl3J3p6p3Zqff38mB3dndJsMjfbv2MNaWmqXyvcofzO-FId7m5uy98_MBIPWiBCL4TVCbaI_amM8WfsIrhJh7lTbmWUa19MPWBBjRDRCP9KCG-LypwaAYTtEhAd50tSrdejnOBcv0h2ajoqGhQ50ybgULzeY8g552oBz-Hybzcf9w</reference>
+  <id>18ecd12892e42697eb771e44617bbb11cb8189bc</id>
+  <photo>
+   <photo_reference>CmRdAAAANI6z2uNR3trBMao2V94xp22R7n7gHZEQMkCLCVSY16VcCK09w_KBw5EhiPyBENo-VkITZLm85BKoYEWHkSvRO2afTAItfo4gvG3-Hn2kYve2g0D4liQgmFzQCawMMk2wEhDxyawBrk4cyHHelr0ewNlOGhQDZs4VBemD_tIMK6aJuPom6IlbPg</photo_reference>
+   <width>4128</width>
+   <height>2322</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/102588239625881852311/photos&quot;&gt;황민영&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ0S9RHHSrNTERhLBuBEWicSU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Quán cà phê Tầng trệt</name>
+<vicinity>Số 2, Ngõ 82 Nghĩa Tân</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0437716</lat>
+<lng>105.7908190</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRwAAAABx0SuTd574mzXr0S3JSHKecPQko4KKsS6ujFNsrMLNtadKkY5TZZ-n5NmnGJuDNyXxrwnaf01F9oMzgnDfugYnfLxOFFSmR5vMwwafjRKLdFVJKNh8wkbxkycRr5AiIufQndzvdqwpDE5Q38bfMEdBIQkNSEmh0FQZ8iLthXJADLbhoUBQM1DxYnCfZcVnHyvZgf_6C2c0Y</reference>
+  <id>786a7bc2bb4eb6e3ac6772759dacf4beaa27fb83</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJB546HjGrNTERKqm2IhSVYIo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Piano Cafe</name>
+<vicinity>Vĩnh Phúc</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0432859</lat>
+<lng>105.8080924</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CmReAAAABijxTVaL5RYyPvg2KmodkUhae2t_QxxuS9h_a9ZM1MbCTVVix47rRcdUfDP7ejRyskIU8uXJl9vqUunju4q9mZGF55HhFRcuPSRM8faCXUXRdIgXeaySt4MurSffTaDWEhD18lBv4OHpamdPW9nFrnbCGhTq_ap_2JjDkW0bDpuyK3hlhWd6CQ</reference>
+  <id>aa71a563da444dd604267d350cc67a7f32eba13c</id>
+  <place_id>ChIJgQJcUxarNTERQ7Zj28Q7scs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <html_attribution>Danh sách của &lt;a href=&quot;http://www.diadiem.com/&quot;&gt;Diadiem.com&lt;/a&gt;</html_attribution>
+ <next_page_token>CpQCBAEAAJI9ggOX2OQaDPlDA-Yj0BCa5oVmM8fiWCJKAiKYYdo0HUzyrsOMRnJw-4T0BYq_O40a7toeFCPH1V7d-TNjIzeXdzoRo0jV8wV8DkYIj7u5Tt2CUDC6Mv3i_QlCRKTr_kyqBMyVKHn12bCeOj58aF9f3si3Uo3K7ydTcwzkZ9cehVuLE1UV8xhyYa8MGAnFJbFU2SvEt6OApB-OkLO44fo_MQv_0xJcq_-Zhdps2O9xoR1QtIL8VTbm2VBAhykWGD5IdhsCun-T0eGHqcCX001AW4pkZzcTDGItwQph7CcEYBZC2AYAOO8sn4f-ncH7yEVPcKVFB6axZK0EcO9rL2vU2hxCWAmNQjbLkG0pIT3vEhC8jek2VI-C0IChr_CX6KU9GhSB8LWSQU-3TDMx3N_dDwgQ_zQW8w</next_page_token>
+</PlaceSearchResponse>

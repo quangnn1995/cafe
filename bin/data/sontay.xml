@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+<name>Quán cà phê Queen Bee</name>
+<vicinity>Tây Đằng</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.1933590</lat>
+<lng>105.4307560</lng>
+   </location>
+  </geometry>
+  <rating>3.1</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRrAAAAuRXEOq3T1SwTPNzncKDuBUvblPDfrfRTYn1dsjzwuS_RMBaGjtTpTa_00GtnGIYYGDrHwCax1Oq2s6RUoiFBqPcXEFk-Fw0BzPL5ovmd7rI_KQm6ddD56ItDiJ8zjkpdkmcQ8BPu9XltZ9sscACkMRIQmQUJNrczfi1QVr7D46h6ixoUK4OMh_OhzEdRqECrvpLr6rRBa9o</reference>
+  <id>377e752613ac2fb0f1e38908197cf1331a60904d</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CmRdAAAAFvB6uPWphBCd1CFdM_p0VMpkCf1kJmgKrD_x2GwsGSw0BV7QAeA-SGsSXXDTA0WV9JpMqI4yHP0n_703x0Zri1u09dYDNQh4ku03XCVatpjpGsYeffyJOqcls4YREktkEhAdgKgknIjOgvsGDn38jw-1GhSJtQDlswSgE10KSl88kO3YlL9ZJw</photo_reference>
+   <width>1032</width>
+   <height>581</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107711224683431376368/photos&quot;&gt;tu trang&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJY2CuYOf0NDERGT69dQa68k4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Quán Coffee Maiduong</name>
+<vicinity>tt. Phúc Thọ</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.1053684</lat>
+<lng>105.5422298</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRpAAAAfpiIzUBPPGo0QQNGw8_Rg3y1cYgwg-VMK1ZcpCCGFjP_l2fuiE8mtpIqkFHOy0AhcJO166fqya_-vpYaw26WsXM-HNyyxv3kJdb0MbXQ0zhE5-zpxycSR_uCOeJfCo7wVSOPkS67jRvq1K8kC1FtuhIQbW5PHaeCJtREIIqZsFVcBBoUlSw7fZikHwawqRYEQiKZlZUw49U</reference>
+  <id>f413608b626540fd3eb4d367bd37a34ea4e5cf74</id>
+  <photo>
+   <photo_reference>CmRdAAAAYKzAStDYGwuaIz9en-pub2j9FHTP3xn9eXup7Y0n6EmwOZDb6yTmhb4FncHeXXrSEa2Vgb3chulAlK3keBpTeHYVYp0qmNrlhKm6Z2MuMSNMSGQF1FffBLaka-StOOiAEhAs-zht8Dr-OevBuGjDOEqcGhRPmOHFk5Eu0_CZSq6HsOMBEyqmfA</photo_reference>
+   <width>4128</width>
+   <height>2322</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/113395898007099686128/photos&quot;&gt;duong le&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJXVH0r_RYNDER9Rro8KRTL78</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe Tam Can</name>
+<vicinity>25 Lê Lợi</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.1411965</lat>
+<lng>105.5051835</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CmRfAAAAjkO5V1N3yhRe27yaRBgWUm0QS7dfPpXs18GdWDgfVSTaTCZ54ZuCfO25kMIYU4HfwbZxDsVAvXXCvWGYLP3aZ9sz3p7UrZST2w8csdIds8k2vD0cVn5LWijwrk2WLgHeEhCW6hIDFMNDL61aYs72U4xCGhQ7TNYCCCH4r7vt8TJ67wxeOueLUw</reference>
+  <id>c05188dc2c53cfeb6c4f156ad6d08e3dae05b45d</id>
+  <place_id>ChIJb92jiwb2NDERpYPq5ARaHSg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Trung tâm giải trí Thành Sơn DST</name>
+<vicinity>Số 99 đường Phạm Ngũ Lão, Phường Lê Lợi</vicinity>
+  <type>night_club</type>
+  <type>bar</type>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.1387649</lat>
+<lng>105.5070037</lng>
+   </location>
+  </geometry>
+  <rating>3.6</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBegAAAKeI7awui6xaO0sOe4-CFBAZ3nzElCuwyfFR6_GvxzT1NPPu5AGPYNqpbnv1CBaLgfZuGMoU25TB2FBs_Zn_2kDvOkxd0iLT3X-liT5btcK21uTYo-AlPrj-JLwdMNbKhEw_68P7YXQFNUXWVJzbPmNhVQPTZCwKEnsNihlzmhrrEhBrO6vEff67JiBZhBkRnQkTGhTC5SvFliTwWir9ODvX0q-FisSjdw</reference>
+  <id>f8a2b4fcf3c780759b42b4da70676d28af33d29d</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CmRdAAAAAb_q-x53qjSm6iRa58jFHdy1WUGB5WpHATobFN5TWCJ3O9jeworiIqHE2s0wz57RjCADRP0wi25VbCQoVS3RRzetiBBFiOAh9rfoTuhDVxdkC2vBiNRBiSbDvlNoEnKlEhB9dPNXTHK_ViBDLlhI_2tpGhR08Wq0P7Eeg1-ejZqHhtHqGlx9Lw</photo_reference>
+   <width>1210</width>
+   <height>1210</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/116017751145146447217/photos&quot;&gt;Trung tâm giải trí Thành Sơn DST&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJjTcGBwT2NDERgew-523zadU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà Phê Trung Nguyên</name>
+<vicinity>Đường tỉnh 305, Tam Hồng</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.2264618</lat>
+<lng>105.5719077</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRqAAAAWrmx8Mm7U_JdTdKaX-Tn2N89Jh4j88u23qU0ZXllIb2zoFj6SmHUZMi8LAnZZ7Q57dBKdPbnqFnFUD9ZODLNX1VseCPi19tS9-2PgDI8Gs3bsSIrCiS4RWXMp4iDR-RHdtMRhnk5cujVBx9kxPLzQxIQVBnVkZcjrk0X5QyFdll-6BoUEQPfAGT7hKXRvKCIEubX06P4TdY</reference>
+  <id>d566c16def30e9fe427d3ebd76beafef954a247a</id>
+  <place_id>ChIJ4wxpFrbwNDERAxbN3KZEOo4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe Phố Mới</name>
+<vicinity>Lạc Trị, Phúc Thọ</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.1074542</lat>
+<lng>105.5364716</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRjAAAApjGnoSObdPdmcS1U7wtuC4JV15NWzJSnhp87HGeMrDU7H47i20MBmKS7CdPn1hTbura5ZBdzyMSZMHlz99jog5q6ApUayE751kxqbO9LsghkrrWqNK_2WlnkBI7LammpS_r4bxwG1iDCH1WghpeoFxIQhztZLov8gZrThnbAow4-7BoUsuOH8eA1_ZhY9pTK0rlHo-od3MQ</reference>
+  <id>445133f2c97ada99bc7efe1102c135b1a57e2e25</id>
+  <place_id>ChIJPeLYRI1YNDERnvHPN_8XBFg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà Phê Huấn</name>
+<vicinity>150 Quang Trung</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.1307376</lat>
+<lng>105.5008427</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRjAAAAjKL8k2kPNe-8fIZ-yrY6XkNabcY0dMn9bfXMRZuUs8NKfA-j5VxZAMNQq6_cimu0blKtsjZqwUFzMHneMSpgYzAGbp_JXbC3TIuM8cS1BfFNXY4YLncJoxgpXIL4VPHsvBxeeougU3x4NTbQFyODWBIQiK2TXmsZCISOXAbObq46rxoUaO-We8UJTXnRy4EdVHkfrppoZMw</reference>
+  <id>338e6f4abc76336cc1c642f84412ef9cd396a682</id>
+  <place_id>ChIJ782706pYNDERCMej50sfzPo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà Phê 51</name>
+<vicinity>51 Đinh Tiên Hoàng, Ngô Quyền</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.1430502</lat>
+<lng>105.5034417</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmReAAAABpxiuINErl2rUYmHv6u0tHT4CJQJFjyhs1oJEYubb8z-a8LWx2_yI7cm4JvO3Fl3Gj0HGqdGZMx9-d6qg7WrBIv5cahlXkRqnkgYFDOrRNrfYKwm32ybO9WHCIxm5W7tEhCu4tl31JztelXUkB1hhYtXGhTaVMirXxkhaEfs63YUXoPOZ8Ow8Q</reference>
+  <id>6594f27a021fd99d2023b332159a644d141c892f</id>
+  <place_id>ChIJyxpXtQf2NDERjDgO_OYbfiI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà Phê Thu Thủy</name>
+<vicinity>52 Cầu Trì, Sơn Lộc</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.1274541</lat>
+<lng>105.5019289</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRmAAAA_54UQ4mW7n4NsKsv8SgvC5zoF2OIfWvc2SJn_9x4q_ngGJwKhx3znzi5ohxOID6mkbYED2q57Vn_0Z00dSrp03j8EL0CWIk3ZgyA6DNeUq5Omof63ArDkGf9m-eOb3yqTMlExF1M6lNbHTRGwMXHsRIQs4cYpboal0NN5fZ57g0pxBoUuXrVJTDh42lNL-VORruHUh9d9lE</reference>
+  <id>4550f3eb74a52d6afd45b4597f316c0832e6b3b0</id>
+  <place_id>ChIJ_3M2XqtYNDERuLtuFJvAhXY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Nhà hàng 5 Cửa Ô</name>
+<vicinity>Đông Xuân</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9899104</lat>
+<lng>105.5102453</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRpAAAAAs7Jgk4NBTNxGE0c_gmT77lJr5AmjC6RtZwy7hrHp-ia_CKbpBwxoB41MFuBUfK0mY2JMmcDOGk4LeN4Mwkj3mZ_9goVMzYnZkqNZPHkrQGuZwi_oXwDiMIJTgAd3gQNcz6gQ_BxPH2COunoZRd6WRIQcGOCPOKYfQBT6ki8RD5eSxoUfPod1bQ-qdZlhtWmxv72vygHIYE</reference>
+  <id>c4694c178755e38a8852562525d6f74dcf5bcdda</id>
+  <permanently_closed>true</permanently_closed>
+  <place_id>ChIJDeEc7plbNDEREa6anCtbGeU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <html_attribution>Danh sách của &lt;a href=&quot;http://www.diadiem.com/&quot;&gt;Diadiem.com&lt;/a&gt;</html_attribution>
+</PlaceSearchResponse>

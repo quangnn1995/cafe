@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+<name>Highway Cafe</name>
+<vicinity>Văn La, Khu đô thị Văn Phú, Phú La</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9589149</lat>
+<lng>105.7620978</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CmRgAAAAe-wKcwUFF4UPfoQRiUD-s7hvxQXmJ6PVz3nS55ZFgUSTk0qFIS7m7f08eSt2aXr6IxSUCmhrLbNg1cYTD3mrR5bNhQgPvVSvO5T8CVrHvi7P67wcCjHtDha2vDZFeZFkEhAuD3v5xkGORKS-JhbI6gVTGhSzj98V7h_kUcT0OAbXAQAJ_ypg2Q</reference>
+  <id>22e85cb7fad725b602a8261089b34ce45f2b84d5</id>
+  <place_id>ChIJiYl529xSNDERwSF-lJjeKaA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Technik coffee</name>
+<vicinity>Số 11 BT1, Khu đô thị Văn Phú, Phú La</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9612392</lat>
+<lng>105.7653380</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRhAAAAGApIVv6qAzTxRWt2YDp1gvoje3tCD-oiAT-hq2bivwlF30V3QIV97U5tj258PkszpcPURs02YmWRqDuw3LSy3_tCqts1Ac1K-gbX4GL-UXp3OnYw_b1qmTpIHVWTkbShVNTWETfHz0U6fz-g74QsSRIQ-wEQCPcJgTRy74Sj6jUdRxoUz-fP9G4HWLnQEx4-2TT1Sg11D_4</reference>
+  <id>c7c8db9adfe739881b035b3d085fdd572900f8f2</id>
+  <place_id>ChIJfQllkNtSNDERb3k9UPXTkGs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Tinny House Cafe</name>
+<vicinity>163 dãy 3 ngõ 560 quang trung, Văn La, La Khê</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9600069</lat>
+<lng>105.7605851</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRjAAAA3BSPzSEyCTVQi_HWsiOlzfR3ht-azlDqGo4A2MsvNDNQ2JYcWTOzTb2FZPNV0kQIYed9uxD-kR0lECs9l61LinWD1iZkxyYZJvZ-85gI-C-XlFud6Nr-jaelvvnOqsWKXMoDWrG_Rj0l7snKXaYz7xIQ3BBGyWepy2At4UGLzuG5IBoUny1i3xVxxwZdQT4u0SCxtizQk58</reference>
+  <id>21138d1547d06efd31151c70d57a4d6e6539c30b</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJUfWpEd1SNDERy13OYEiNJH0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe X.Men Club</name>
+<vicinity>Ba La, Phú Lương</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9494015</lat>
+<lng>105.7581389</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRiAAAA3R0nJxYowZvjx9lqXn7A-B71EZkLSBk7982sXaPaFKXWfahDeBvpeP3vJVZKKimTy9CA45oaebWYmvjqvy5DO7ZyQdZ57Y8N_ag0e-pe57zl3rSrA-cUIfh_jio-N_DmfmZdkHAT959hugLWFwCHUhIQ7sL8L8gCAmkun_BUQnlEmxoUVWVrHTcnFcopWjuyLcSi8KBtD0o</reference>
+  <id>9e5f34c022e924c505bc633fb77685aa05fe69d6</id>
+  <place_id>ChIJaewih-pSNDERvMnK3o7CznI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe Vân</name>
+<vicinity>Ba La, Phú Lãm</vicinity>
+ <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9522972</lat>
+<lng>105.7569104</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRcAAAA9YAKIexsrb5CljcTkpNXKe16YXnm0bQd2Wmem88pU3uA_dYO3JlC0lY5sqLSXPmrM2t_BSBxvyvt9N3bZuX7-aPqCcXCYOJkzNNXnSy67T3qM1WT-x5Zg0HhxVAauLFoEhCXNSNwb50zrM2cv97Fob2mGhRgTro0KacJAcAU7kmcJoze0pZeYQ</reference>
+  <id>77e0a9bf615387a750b960f839e55c5a9357361d</id>
+  <place_id>ChIJFfQMIepSNDERsld56TdxySk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cà Phê Long Hải</name>
+<vicinity>9 Quốc lộ 21B, Phú Lãm</vicinity>
+ <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9468916</lat>
+<lng>105.7569694</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRnAAAAGFxm2e60FpjMWSkctvJHK0-MlDGRaJzG5JaQgkN7PnsHr_6Cntl_i48j4YDl5iXNTkB8G4YpVC7J2WqJmfPSDIQpxO663SeNVObCe5Qv-OHtIF4ME2sJDzyuk-rWy8zP1sfH9hWfcNd2erIFW2ZPyxIQ-Vjxss-AKSQhI9uV6AqfCBoUttqzQJYlMakLjHMdjTCP53UXvbk</reference>
+  <id>90d649f7b4eb8de8cbe2393521cc7a67e8553a47</id>
+  <place_id>ChIJT8rkyupSNDER5_jIpqdvB7k</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <html_attribution>Danh sách của &lt;a href=&quot;http://www.diadiem.com/&quot;&gt;Diadiem.com&lt;/a&gt;</html_attribution>
+</PlaceSearchResponse>

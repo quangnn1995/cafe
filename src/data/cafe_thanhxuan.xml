@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+<name>Quán Cafe 3D FiLm</name>
+<vicinity>191, Khương Trung Mới, Quận Thanh Xuân, Hà Nội</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9963511</lat>
+<lng>105.8160746</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRlAAAA5O_Lan9YIwY5GceyjRibKBksTxkeJAaePlZ1I0nRFGJpa6AFT1WRcCH_5P3sLG8u0S3F5N-UAb1qpTx1NU_6j9XIN9McbSCi-dxbwImE6rLEZdZR2exEy6C-WoB9XPcYPJouYWmxlopERVzzl5zhIRIQFY7LVIYzT1JkqMlfR7UxXRoUgV8EfkMkvo4N6gqpOwFBz810ds4</reference>
+  <id>b8afbb6a1d7fbd3cb8a2cf7bbb33303b16e5ed14</id>
+  <photo>
+   <photo_reference>CoQBcwAAAD-6TYqeXZKmjI3NdyaKdzRUTHJNuscWwlu_vZQ8ZdVF4byTPfg-qQvWIVs-iEr3s8prGL6TOifbVRQ0atSHahmXsuAxZ7ToQ_sk2S3w1ihA2S4XHP3a-0ATgHw_VAuQcCO8F5SOf14AHJ5uc61XlmOk73QuchBLPuHs-frfkDM7EhBd20fQrLm5etbZCHTSSWTNGhT9TeZXNWmmgzwk03QiCETt0hkKGA</photo_reference>
+   <width>1280</width>
+   <height>800</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/116388820175673351636/photos&quot;&gt;Vuonggia Dao&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJxRvsNJCsNTERkiRakUHw8UA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Now Cafe</name>
+<vicinity>83 Tô Vĩnh Diện, Khương Trung</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9989353</lat>
+<lng>105.8203353</lng>
+   </location>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CmRbAAAAuH1zhiBIvuf4hSAUdqy9oWRT-f2RbcvGSOUwJUZjMvPx0vxEVckp9-tGt3fzxMWJRaRmTlYhSbEkA4_c86L-eEjCact046nFXEHg4IhBd4z-9SfrZf_nlNMsLcksdrh1EhCtRmhdFAAZvpGu_d_zplULGhRS779NTLzkYPORKNIAb7ClwV77Kw</reference>
+  <id>936d3bd90da13afb387bf86db5bfea3471957482</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CmRdAAAA0C8NuuLuVX6MVThDLidp_II2gKA6sW_aqgu3xvzOqdt0w1OZmGk3nqLlzKPzXTlvOTL7u65KR5AzK7iG05PfX3oWR-ZzDv9pUkQjPW_M2nVfavAZv4j_55gU1WLfFCtdEhAx33VcimAUViBmXH8ohyaoGhQZ3b63tfK0jd4xnZGI7RkyvVpc9A</photo_reference>
+   <width>2048</width>
+   <height>1360</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/116423517476347178955/photos&quot;&gt;Đặng Ngoan&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJnbC2gYWsNTERoQbSCG4s0HI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Firefly Coffee</name>
+<vicinity>93 Nguyễn Trãi</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0011514</lat>
+<lng>105.8179401</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRiAAAAvwAGiMmvRxUhF0JRZNAZQpk-6NSBmJ6nmTKJXMA9GIYQcH_L_ZqkLk76aU56R4lsiNbFkaLUxubaKD48pJPEHvSJXXMbgZzPiaBTngUTNienDUl4-v7LXsAaVxzQ40cXErJyjZQkMbb8VB7aYMFTVBIQBVacMDedUR6w0-0Gi8j7GxoUX8mkw5ULiMves_N51s26rtvAOGs</reference>
+  <id>8e4d32e41e389b21e71ff86fa5c2c5584e70246e</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CmRdAAAA44C5rWuOwitJ4vgpQcGMxe56nai3cG2XTm8WZSmwbJG8MENZZJM3Yv_zhCaEUmozdQM4xOvtZH1rKRXeV-6Rwys142jg_aggRxWKvlg_x-6iKJ4_VcvIZDvYCanVNTbNEhD_JKLSBrRz0pawqkIGr1mKGhSCMk7bOfUfGr2uCRhEkU1qIdtg6g</photo_reference>
+   <width>720</width>
+   <height>537</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/109619142888606229360/photos&quot;&gt;Luan Tran&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJG8HBL4WsNTERZVDGT28-geo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Meow Coffee</name>
+<vicinity>295 Tây Sơn, Ngã Tư Sở</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0043070</lat>
+<lng>105.8223970</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CmRfAAAA87iW1km16V7ADJrznouwE9kFLGdrI_rcCpXJj-jYUolh0T8iwsY6_p5ehAlR_45_0XhiSjrCJP8uAZBLnBWLl03dkFMCcyfSGd_V7iiHluuBYiL4qRvMCN-rR-yNpvoQEhDiGxabQAx7BQCrvkKWs3cJGhRRXiTHiO0c9swimDdnTeg6dRveWw</reference>
+  <id>65ccdd1845309b94446d2cb3f0852f462085334b</id>
+  <photo>
+   <photo_reference>CoQBcwAAAOig-6-_JMh0xaFxck3mKg8sDet7bHAlvuRVsqFQUnrQTtG44mPB1KwWIZmzPsl9KPo2aO-2hfLdnGMZryY-85pDDOtEDqsorcshWCHPHBFmHHOGE0w3PDMmgZQ6nqmT2u76QGqXnhlONeXXQvTIC6fp1_qcWfAUtlPi9_iC8IKOEhD0P7szienIyun2QhmbNhM5GhR83qr99RP5dQMnXpZh1raHjTik_Q</photo_reference>
+   <width>833</width>
+   <height>833</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100554706331485107147/photos&quot;&gt;Lee Eck&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJB_MDCISsNTERIX4ZUPobTao</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Typograf Cafe</name>
+<vicinity>158 Thượng Đình, Hà Nội</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9980104</lat>
+<lng>105.8162954</lng>
+   </location>
+  </geometry>
+  <rating>4.7</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRhAAAAtQWzcSN6XU388NkhDSwlUo4cnoTKDAociBvIB-J9okiRD5oZ5z7qP9D58E-RdPVmwaub-se2p3U1Ky6NFjB8PSMy3afBCwk20gx_GEL4VvQETwxDyfWVkGBUm__3A2t3ZAiefBHmNWyRfo9tOdu_RBIQ8aIpckuZZ_xrFQzlb4majBoUyIUou8bR1oEa9LXKkbglDgVI16E</reference>
+  <id>68fffd50624488afbb449a0446eef55568ec8235</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CmRdAAAAHJVb0jr23tKwJzFMe5OAR_xIN7RMzV8ABuilgyOgU9ZfpiF0KXqu2cHTM9owQ1xk0e5NEoyjxL9lz2W0lxLWNM0_7Fpp-TCnmwS_G6YvHm-AIP1bIqpeMsD4fxcPgdeaEhBYQGm44g4WyiAH0uVaxvIKGhSwDRqlyDi3wnkrQlgOxBOpKUIHfw</photo_reference>
+   <width>5984</width>
+   <height>3366</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/118291157326425303490/photos&quot;&gt;Libor Nguyen&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJG6PLFpCsNTER3HvUqQmaIbs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Aroi Dessert Càfe</name>
+<vicinity>5 Khương Trung, Ngã Tư Sở</vicinity>
+  <type>night_club</type>
+  <type>bar</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0015630</lat>
+<lng>105.8185340</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png</icon>
+  <reference>CnRmAAAAqbbHac3j-maJgoArv5jG-JLJ7zJEEFBr2UbLGoSbXBH2QSbVeKEu0CEC19A2Q5XxB10G901VgqO2RlCcWEVHMgkSB7SJUi9v3K9FwemoKa5CTMtOu45zfwkZCL5L7B3ctgmU1gD9hMt8Wmitvik0NRIQ-QHnJaM_5_4TJjs7D_S1_xoUqyQEGek_XW5K3ZwYnf8vGym90NU</reference>
+  <id>55e6674b3682388b8744e99b2c7a0e02280ba677</id>
+  <photo>
+   <photo_reference>CmRdAAAAeSXp_q6mEAw9mJ9opx8MewMwWzEl1uHJl0ZWu9K998jZStN1JAvw8ltF1ypGyVlv9LvMEE8GhZQNhmXdHI3Y3lybZTEbiXH4MjHQ2W1OF30rS7TI6dy3T8X0B6nBdCRJEhD6RuQGQ3OuhAmcu4rMYhO-GhTsbp8auccw1X3AUyf2gNIJ7pJ88g</photo_reference>
+   <width>300</width>
+   <height>300</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/103837174959654900704/photos&quot;&gt;Ace Alex&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJbbwPIYWsNTERTJDRtPoH_JI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Twitter Beans Coffee</name>
+<vicinity>Mipec Tower, 229 Tây Sơn, Tây Sơn, Ngã Tư Sở</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0058755</lat>
+<lng>105.8229196</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRoAAAAxozn1fpf1ko8oZ3ebuQLZ6VUNpDLufKmb9h_YcHa3wVftPySUklj6aqJnu-0RNF3U9J_725ciuxdZBlvU_Qs9NZFm1MOidb391tCvTojo1YIWizpKOsXIIbdqm6-6JTvWWMjbZCwdHthdbWwDG9pbBIQWzfInH8UEoWxXLUYkH4FPxoUXNeylPy-5rnGLABs0t46n7meORo</reference>
+  <id>5987eb62673737c581830e767c80d75461a918ec</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJhb72-oOsNTERN5YM7CPvVfU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Pico Mall - Mipec Tower</name>
+<vicinity>229 Tây Sơn, Ngã Tư Sở</vicinity>
+<type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0059316</lat>
+<lng>105.8229732</lng>
+   </location>
+  </geometry>
+  <rating>4.1</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRrAAAAh6SCQkJ5F0skGf8_zOfe_dduys41fcZG9Bun0cCJKtmP8UMrm8weBCrAux3iaeTrlClOhTkVu6VRZDq2ZNUCOPOx4vWJDMIqAW5Z4CR1N-25pK43kIlgqRko91oMo6xJHhqi-c41SddR_UO-UM1EaBIQMF3Tg0PPBPltANNBMljcORoUybDbQagSjMdd_WgDzmEs2rYcDMc</reference>
+  <id>64b79319942ee8d1900ac028727a9bee33f8a009</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CmRdAAAAt3mdINeeP20PgFTTUC55hTyGHItP6H_Ym4Kze2zXPKcjzgOmaIUny_nqHyv1O9rYmLkXXCSF_sRTOrdmEeto2f2QqrrHGOnnfXfb6kXu7C3VomlMvKmf51J3O8ddleQ8EhC2On52VIK1V82Mt03W8TKMGhSy1FJoRbrMk8h58RZjRxbAnVbOfQ</photo_reference>
+   <width>1000</width>
+   <height>750</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111545641557428580631/photos&quot;&gt;Pico Mall - Mipec Tower&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJSQXU4IOsNTERdqd0zahav4g</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Highlands Coffee</name>
+<vicinity>Ha Noi City</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>21.0010988</lat>
+<lng>105.8165199</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRkAAAAdmFtyqhKZ585zKxHsyosV07_l0uXyY_McMy-HMfKiupqJbyClFqqFW0Bevvhyseixlwyvf6BpYUMA5CmzgejyAh1uPAi8LwIsrA0uV9hWGumQnJQi_fdrRMiJohY12zSaX0tY7NH6ZQkcFfAuZIXvRIQyKJxcfzvdAP2BmT42n0NPxoU79Em5UDo9Pct2m2A0RsWHJJA_eE</reference>
+  <id>8692cf04e0872aff3175f436e1be6a18871c1f4b</id>
+  <place_id>ChIJWXV5xZqsNTERJ7QmDGcpV6U</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>EnBac</name>
+<vicinity>1 Nguyễn Huy Tưởng, Thanh Xuân Trung</vicinity>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9999520</lat>
+<lng>105.8076680</lng>
+  </location>
+  </geometry>
+  <rating>4.6</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRZAAAAuk3sul6W6UXVoWRD9IpbqVhA35Z_Q7BHYyz6ttBbOS8LOayrXbDdld95W6lCqIkFS6nwKbjWm2V-FtLnX4KHJUuuqlRePwln_n2srnvoFHVYkABaSG_PlK4jYjFcIMmdEhDviSfyBjaqDLF85tc7iIuZGhTE1cNeNp9644VU7P_XQM8WVo99DQ</reference>
+  <id>d67b1c189a96fda0a9af947ad2cc4a0ee3882805</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CmRdAAAAmuko9U3wftktAxmh8XZbPzXJfnu2-_G6q5HndDgus8Z7_d9wNA4zrpYIjIRjkzl2yQJ0kZ4dmuTyBZZw99nTnLBJPuwJ4K0XOr3NwJLYqEXXQIx2bxok8wqZEAKJ-7W8EhAo1wveJbAJcC78Ny2AAPI2GhRjLPzWp5oNRSSnRujotRSG2b8acA</photo_reference>
+   <width>250</width>
+   <height>250</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/117333083407496628281/photos&quot;&gt;EnBac&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ31jucBisNTERstw72-ySdr0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <html_attribution>Danh sách của &lt;a href=&quot;http://www.diadiem.com/&quot;&gt;Diadiem.com&lt;/a&gt;</html_attribution>
+</PlaceSearchResponse>

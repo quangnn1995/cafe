@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+<name>Highway Cafe</name>
+<vicinity>Văn La, Khu đô thị Văn Phú, Phú La</vicinity>
+  <type>cafe</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9589149</lat>
+<lng>105.7620978</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CmRgAAAAAM_WY9RLFQ99d6i-VAPne6_US-y9apo1vHAglLr7gt_i5YcQ0o8Oz6TJKnK1R_9t8WzRRL9yI-yPeX68xkgssR7w_AtgZTsSs8gmXa5xWFJnwXEWvw47a2hwQBJkbMsKEhCKuJTDiKftdd6VB6z4TnbzGhSVG6FgezE-sJdui-cgYQORC1KiOQ</reference>
+  <id>22e85cb7fad725b602a8261089b34ce45f2b84d5</id>
+  <place_id>ChIJiYl529xSNDERwSF-lJjeKaA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe X.Men Club</name>
+<vicinity>Ba La, Phú Lương</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9494015</lat>
+<lng>105.7581389</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRiAAAAu9UainZtMba_HP74vOBl1BeizTSkVPd4iK4o5KGDSsQPrJMLNMzRgfU5htQ3z7strC6X1TnKyWpr4Wfj94TNA5ztaSrl7A_8sP96Dlu6dBYgsoQ4fyjvBbK0N3-wihGxDaB6qXMxE8lqxaME-wRUOhIQZlrUggqwTKHfKScZznjP4RoUHAcyiKKdG3gzBvP1zoWLq2RqVhU</reference>
+  <id>9e5f34c022e924c505bc633fb77685aa05fe69d6</id>
+  <place_id>ChIJaewih-pSNDERvMnK3o7CznI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cafe Vân</name>
+<vicinity>Ba La, Phú Lãm</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9522972</lat>
+<lng>105.7569104</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRcAAAAoiDkXHa0SLyiCYk85v3WmScfYOOvQARo2wzMmP84nJ6XtET-PUMWxKWe7L_6nV-CstVR2vOMGxAfhrJErasxQ4WvWVX5k9vjIIGFg30hLPHDFjgY6Ou6Vx7u0WxwA6DaEhDeHfDfZhxPQY2Ox20o5Cl5GhR7hKNkoWORX8LMqwo1sIJB8g8aUA</reference>
+  <id>77e0a9bf615387a750b960f839e55c5a9357361d</id>
+  <place_id>ChIJFfQMIepSNDERsld56TdxySk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Cửa Hàng Tạp Hóa Huệ Tranh</name>
+<vicinity>2 Phố Xốm, Phú Lãm</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+<lat>20.9475328</lat>
+<lng>105.7569158</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdQAAALVjm4anNz3gW35HMa7UCdpwNbY89x_lpZ27cCdc9AwTkRcvZqMSA1TXNWKXSP0T5RW_PU7IXM2kFaiWqN-0aprdzoa-Tt-Ev4jyThNwieAqXisPYWsD-G3gwkqhAzahqyE9yVQs1JylhmQpMw5oL8K5F_WkGGCMAvpWJOVX5rd3EhBHX-gsS4vk3Dy8vMkfF9AOGhSpklZZA1hejsOEiYYgGBY6JsO90Q</reference>
+  <id>a8dd29fbbbb5f93ff0bbdc1f0b6a8ffb762e64fd</id>
+  <place_id>ChIJHfwxxupSNDERaENLSOiQGAo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+<name>Lotteria Mê Linh</name>
+<vicinity>Đường Tô Hiệu, Tttm Mê Linh, Hà Đông, Hà Nội</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <geometry>
+  <location>
+<lat>20.9558350</lat>
+<lng>105.7563658</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRkAAAAhyAzA-LP26Z5StccskWgZP2ITMlgTtEOuBZD86TMkC9v_Uzgv1tvfgvneL0r5EJfT5fSfCmvn8fxq0dTY-iizabE1X7xBnRtOWOLdd7Px2z6t2MCaqlkajrCnBG9b-uRHuZTX_E2RcAF6R8mGmOKDhIQ7u0SwhAyLBBlvCf6VV745hoUjFpm3wMSVuPMmyvVtOKBN8gdAS8</reference>
+  <id>574a20761b9cb22596f96e97692a60ef526f81b5</id>
+  <permanently_closed>true</permanently_closed>
+  <place_id>ChIJu9YFUuhSNDERND8JJWVz6GY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <html_attribution>Danh sách của &lt;a href=&quot;http://www.diadiem.com/&quot;&gt;Diadiem.com&lt;/a&gt;</html_attribution>
+</PlaceSearchResponse>
